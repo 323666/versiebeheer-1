@@ -5,6 +5,8 @@ echo "<br>";
  $tekst = new Tekst();
 
  echo $tekst -> wattekst;
+ echo "<br>";
+ echo $tekst -> nieuwetekst;
 
 
 ?>
