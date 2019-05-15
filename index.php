@@ -6,7 +6,7 @@ echo "<br>";
 
  echo $tekst -> wattekst;
  echo "<br>";
- echo $tekst -> nieuwetekstee;
+ echo $tekst -> nieuwetekst;
 
 
 ?>
