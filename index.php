@@ -4,9 +4,9 @@ include("./class_text.php");
 echo "<br>";
  $tekst = new Tekst();
 
- echo $tekst -> wattekst;
- echo "<br>";
- echo $tekst -> nieuwetekst;
+ echo $tekst -> wattekst . "<br>";
+ echo "<hr>";
+ echo $tekst -> nieuwetekst ;
 
 
 ?>
