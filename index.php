@@ -9,6 +9,7 @@ echo "<br>";
  echo $tekst -> nieuwetekst ."<br>";
  echo "<hr>";
  echo $tekst->tekst2;
+ echo $tekst->tekst5;
 
 
 ?>
